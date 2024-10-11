@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "fdc8",
+      "name": "James Miller",
+      "email": "mabica5900@adrais.com",
+      "password": "$2a$10$uoR5ZqhLJS3KkOkPWYnl/ObSWaFerWzCf1ao0iA7kkz1fTcKTGH8u"
+    },
+    {
+      "id": "7100",
+      "name": "Matthew Lopez",
+      "email": "danyjorf@gmail.com",
+      "password": "$2a$10$fNfAWHee1oCcolOguA4G9uQwaq.Psemhwu3tTEnK98FHz6R4Hjj7."
+    },
+    {
+      "name": "Christopher Lee",
+      "email": "danyjorf@gmail.com",
+      "password": "$2a$10$fUU09o0lLUOSUkpFMSLFC.TcjfPiAHal/OfQXaMzSGH5o8T65ab1G",
+      "id": "g4lwAHO"
+    },
+    {
+      "name": "DanaFlores",
+      "email": "kejom77066@godsigma.com",
+      "password": "$2a$10$LqiyE9cJqTJ42RyEvgj9AufH06QTxtuiNXXle8TsuzukvjdA4Rd7u",
+      "id": "7fxSbKa"
+    },
+    {
+      "name": "Louis ",
+      "email": "yafev45300@godsigma.com",
+      "password": "$2a$10$FF9KXL59R8Bo71TO7CW7cuQQt0iVOD4BMbU05jr6GMbPLqx.4wSY2",
+      "id": "VxqLVRz"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "doc1",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Cardiology",
+      "diseases": [
+        "heart disease",
+        "high blood pressure"
+      ]
+    },
+    {
+      "id": "doc2",
+      "name": "Dr. Robert Smith",
+      "specialty": "Neurology",
+      "diseases": [
+        "migraine",
+        "Alzheimer's disease",
+        "Parkinson's disease"
+      ]
+    },
+    {
+      "id": "doc3",
+      "name": "Dr. Emily Brown",
+      "specialty": "Dermatology",
+      "diseases": [
+        "eczema",
+        "psoriasis",
+        "skin cancer"
+      ]
+    }
+  ],
+  "appointments": [
+    {
+      "doctorId": "doc1",
+      "doctorName": "Dr. Sarah Johnson",
+      "specialization": "Cardiology",
+      "date": "2025-09-11",
+      "time": "00:00",
+      "id": 1
+    }
+  ]
+}
